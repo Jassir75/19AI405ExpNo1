@@ -97,7 +97,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT :
 
-<img width="847" height="423" alt="Screenshot 2026-10-31 140130" src="https://github.com/user-attachments/assets/036b36e6-b30e-4bab-b180-0567eafc12bd" />
+<img width="877" height="433" alt="Screenshot 2026-10-31 140813" src="https://github.com/user-attachments/assets/55f022b4-963a-4859-a3b7-0277dd5c8f59" />
 
 ## RESULT:
 Thus,developed AI agent with PEAS.
